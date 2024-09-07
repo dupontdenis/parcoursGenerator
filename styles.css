@@ -1,0 +1,19 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: #ffe0b2;
+  /* Light orange */
+  color: #e65100;
+  /* Dark orange */
+}
+
+input,
+button {
+  color: #333;
+  /* Dark grey */
+}
+
+/* Add color to the placeholder text */
+input::placeholder {
+  color: #333;
+  /* Dark grey */
+}
